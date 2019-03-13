@@ -21,6 +21,6 @@ const jsx = (
 ReactDOM.render(jsx, document.getElementById('app')) // IndecisionApp
 
 /*
-https://coursehunters.net/course/polnyy-kurs-veb-razrabotchika-react-s-redux-2nd-edition
-ypok: 134
+--------------------------------------
+ypok: 135
 */
