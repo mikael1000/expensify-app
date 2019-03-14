@@ -22,5 +22,5 @@ ReactDOM.render(jsx, document.getElementById('app')) // IndecisionApp
 
 /*
 --------------------------------------
-ypok: 135
+ypok: 139
 */
